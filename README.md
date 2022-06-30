@@ -33,6 +33,7 @@ features that make it literally the best terminal emulator ever:
 + Ligatures
 + font2
 + updated to latest version 0.8.4
++ anysize[](https://st.suckless.org/patches/anysize/)
 
 ## Installation for newbs
 
